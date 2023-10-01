@@ -1,0 +1,7 @@
+.table {
+    width: 30vw;
+    height: 30vw;
+    border: 3px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
